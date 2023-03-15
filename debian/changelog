@@ -1,0 +1,6 @@
+libnginx-mod-http-auth-digest (0.1-1) UNRELEASED; urgency=medium
+
+  * Initial release after decoupling the module to its own source package
+
+ -- Ritesh Raj Sarraf <rrs@debian.org>  Wed, 15 Mar 2023 14:17:05 +0530
+
