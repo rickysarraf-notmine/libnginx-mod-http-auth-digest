@@ -1,4 +1,4 @@
-libnginx-mod-http-auth-digest (0.1-1) UNRELEASED; urgency=medium
+libnginx-mod-http-auth-digest (1.0.0+git.ac91c88) UNRELEASED; urgency=medium
 
   * Initial release after decoupling the module to its own source package
 
